@@ -13,9 +13,9 @@ public class FirstHalf {
 		a[6]=87;
 		a[7]=98;
 		
-		/*for(int i=0;i<a.length/2;i++) {
+		for(int i=0;i<a.length/2;i++) {
 			System.out.println(a[i]);
-		}*/
+		}
 		
 		for(int i=(a.length/2)-1;i>=0;i--) {
 			System.out.println(a[i]);
